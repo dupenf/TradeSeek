@@ -1,12 +1,17 @@
 # TradeSeek
-这是一个为了量化交易平台而开发的交易软件。 支持js语言开发量化策略。感谢tradeview组件。
-
+这是一个为了量化交易而开发的软件和平台。 支持js语言开发量化策略。感谢tradeview组件。
 【寻求证券公司合作或者财经数据方合作】
 
-0.0.7版本
+
+
+0.0.7版本：
+
 1、增加了指标功能
+
 2、完善了代码结构
+
 3、完成量化代码框架
+
 
 <img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/4876ab98-3fab-46ab-bf58-83ba09ecc5ad" />
 
