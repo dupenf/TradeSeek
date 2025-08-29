@@ -3,6 +3,12 @@
 
 【寻求证券公司合作或者财经数据方合作】
 
+0.0.7版本
+1、增加了指标功能
+2、完善了代码结构
+3、完成量化代码框架
+
+<img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/4876ab98-3fab-46ab-bf58-83ba09ecc5ad" />
 
 0.0.6版本：
 1、增加了指标框架，会逐步增加指标功能。
