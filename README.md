@@ -5,6 +5,7 @@
 0.0.8 版本
 1、修改了界面。
 2、接下来完成可编程选股。
+3、计划去新疆沙漠旅游20天。
 
 <img width="2555" height="1390" alt="image" src="https://github.com/user-attachments/assets/32dda7c8-3130-4562-957f-50544f3aaf96" />
 
