@@ -2,6 +2,11 @@
 这是一个为了量化交易而开发的软件和平台。 支持js语言开发量化策略。感谢tradeview组件。
 【寻求证券公司合作或者财经数据方合作】
 
+0.0.8 版本
+1、修改了界面。
+2、接下来完成可编程选股。
+
+<img width="2555" height="1390" alt="image" src="https://github.com/user-attachments/assets/32dda7c8-3130-4562-957f-50544f3aaf96" />
 
 
 0.0.7版本：
